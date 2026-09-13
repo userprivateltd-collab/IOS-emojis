@@ -1,0 +1,13 @@
+# iOS Emojis
+
+> A lightweight browser tool for finding and copying Apple-style emojis on Android.
+
+## Pages
+
+- [Emoji library](https://iosemojis.com/): Search and browse the emoji collection.
+- [How it works](https://iosemojis.com/guide): Instructions for copying emoji text and images.
+- [About](https://iosemojis.com/about): Project and creator information.
+
+## Usage
+
+Users may browse categories, search emoji names, and copy an emoji as text or an image. The service does not require an account.
